@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkesimerkkiprojekti_docs=self.webpackChunkesimerkkiprojekti_docs||[]).push([[647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>o});r(6540);var c=r(4164),i=r(1769),k=r(204),t=r(2831),u=r(1410),a=r(4848);function o(e){return(0,a.jsx)(i.e3,{className:(0,c.A)(k.G.wrapper.docsPages),children:(0,a.jsx)(u.A,{children:(0,t.v)(e.route.routes)})})}}}]);
