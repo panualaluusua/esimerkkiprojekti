@@ -4,9 +4,8 @@ module.exports = {
     Dokumentaatio: [
       'index',
       'vision',
-      'roadmap',
       'changelog',
-      'architecture',
+      'architecture'
     ],
   },
 };
